@@ -12,17 +12,17 @@ Once it starts, press a key to get past the title page.
 
 0) Sector editor - you are first shown this summary of the keypresses:
 
-	S) Search for text - search disk for text (must wait for the search to finish)
-	T) Enter text - ((not sure this works correctly))
-	H) Enter hex - ((not sure this works correctly))
-	=) Next sector - load the next sector from the disk
-	/) Last sector - load the previous sector from the disk
-	R) Read sector - enter a specific sector to read
-	W) Write sector - write out the sector back to disk
-	P) Dump to Printer - print the sector to the active printer
+	S) Search for text - search disk for text (must wait for the search to finish)\
+	T) Enter text - ((not sure this works correctly))\
+	H) Enter hex - ((not sure this works correctly))\
+	=) Next sector - load the next sector from the disk\
+	/) Last sector - load the previous sector from the disk\
+	R) Read sector - enter a specific sector to read\
+	W) Write sector - write out the sector back to disk\
+	P) Dump to Printer - print the sector to the active printer\
 	9) Back to main menu
 	
-	.) Show from >80 to >FF
+	.) Show from >80 to >FF\
 	,) Show from >00 to >7F
 	
 1) Disk Map - shows the location of files on the disk. Any key to exit.
